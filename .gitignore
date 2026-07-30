@@ -1,0 +1,8 @@
+venv/
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+test.py
+test_predict.py
