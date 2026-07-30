@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🍕 Food Delivery ETA Prediction")
+st.title("Food Delivery ETA Prediction")
 
 st.caption("Estimate food delivery time using Machine Learning.")
 
