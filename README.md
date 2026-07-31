@@ -179,27 +179,15 @@ The trained Machine Learning model predicts the estimated delivery time instantl
 
 ---
 
-# Screenshots
+## Home Page SS
 
-## Home Page
+<img src="Images/home_page.png" alt="HomePage">
+<img src="Images/home_results.png" alt="HomeResults">
+<img src="Images/Feature_importance.png" alt="FeatureImportance">
 
-> Add screenshot here
-
-```
-screenshots/home.png
-```
 
 ---
 
-## Prediction Result
-
-> Add screenshot here
-
-```
-screenshots/prediction.png
-```
-
----
 
 # Installation
 
